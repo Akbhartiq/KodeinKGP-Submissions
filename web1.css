@@ -1,0 +1,10 @@
+body {
+    background-color: cornsilk;
+    text-align: center;
+}
+
+#demo_button {
+    background-color: rgb(255, 255, 255);
+    border-color: orangered;
+    border-style: dotted;
+}
