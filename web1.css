@@ -4,7 +4,8 @@ body {
 }
 
 #demo_button {
-    background-color: rgb(255, 255, 255);
+    background-color: red;
     border-color: orangered;
-    border-style: dotted;
+    border-style: solid;
+
 }
